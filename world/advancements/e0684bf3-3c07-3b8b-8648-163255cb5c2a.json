@@ -378,6 +378,12 @@
     },
     "done": true
   },
+  "railcraft:carts/root": {
+    "criteria": {
+      "step_on_track": "2020-11-22 16:47:30 +0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-11-21 16:43:36 +0400"
