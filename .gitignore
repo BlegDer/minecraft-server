@@ -1,0 +1,10 @@
+/config
+/libraries
+/log
+/snapshots-server
+1.12.2.json
+eula.txt
+minecraft_server.1.12.2.jar
+server.jar
+server.properties
+start server.bat
